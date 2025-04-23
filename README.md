@@ -19,4 +19,4 @@ To get started, follow these steps:
 
 1. Clone this repository to your local machine:
 ```bash
-git clone https://github.com/darkvengeanceone/Black-and-white-background-selection-on-the-web
+git clone https://github.com/darkvengeanceone/Black-and-white-background-selection-on-the-web.git
